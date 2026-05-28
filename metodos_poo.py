@@ -61,10 +61,10 @@ class Integrador(AnalisisNumerico):
         return resultado * (3 * self.h / 8)
 
 # =========================================================================
-# EVALUACIÓN DE LAS TABLAS DE LA MISCELÁNEA
+# EVALUACIÓN DE LAS TABLAS 
 # =========================================================================
 if __name__ == "__main__":
-    # Conjunto de datos extraído del PDF institucional (Págs. 1 y 2)
+    
     puntos_x = [0.4, 0.5, 0.6, 0.7, 0.8]
     puntos_y = [1.45, 2.57, 3.71, 4.88, 6.12]
     
